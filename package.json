@@ -2,7 +2,7 @@
   "name": "commercialism",
   "version": "1.0.0",
   "description": "Memoona's Mern app #2",
-  "main": "index.js",
+  "main": "backend/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
